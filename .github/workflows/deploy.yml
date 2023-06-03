@@ -35,7 +35,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID}}
-          projectName: docs
+          projectName: docs-vitepress
           directory: .vitepress/dist
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
 
