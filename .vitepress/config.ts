@@ -62,6 +62,10 @@ export default defineConfig({
             text: "One-on-One",
             link: "docs/management/one-on-one",
           },
+          {
+            text: "OKR/KPI",
+            link: "docs/management/okr_kpi",
+          },
         ],
       },
     ],
