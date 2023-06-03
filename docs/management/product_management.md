@@ -20,3 +20,7 @@ You can solve using the following method
 ### Focus only on the product and forget the team
 
 If you don't have a good team, you will not be able to build a good product. You need to make sure that you have a good team. You need to make sure that you have a good process. You need to make sure that you have a good culture.
+
+### Only thinking about start but forget to prepare for landing
+
+Only start is not enough. You need to make sure that you have a good plan for landing. You need to make sure that you have a good plan for growth. You need to make sure that you have a good plan for maintenance.
