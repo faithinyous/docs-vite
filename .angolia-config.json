@@ -1,9 +1,9 @@
 {
   "index_name": "fringe-division",
   "start_urls": [
-    "https://docs.karnwong.me"
+    "https://docs.faithstory.info"
   ],
-  "allowed_domains": ["docs.karnwong.me"],
+  "allowed_domains": ["docs.faithstory.info"],
   "selectors": {
     "lvl0": {
       "selector": ".VPLink.link.VPNavBarMenuLink.active",

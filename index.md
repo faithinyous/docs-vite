@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Faith Docs"
-  text: "Docs created by Faith"
-  tagline: Keep track of what you have done
+  name: "Documentation"
+  text: "by Apiporn(Faith)"
+  tagline: Work = Life Balance
   actions:
     - theme: brand
       text: Technical
@@ -18,11 +18,6 @@ hero:
       link: /docs/other/index
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: My Profile
+    details: https://faithstory.info
 ---
-

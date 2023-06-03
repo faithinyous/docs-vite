@@ -66,13 +66,16 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [{ icon: "github", link: "https://github.com/faithinyous" }],
+    socialLinks: [
+      { icon: "github", link: "https://github.com/faithinyous" },
+      { icon: "linkedin", link: "https://www.linkedin.com/in/faithinyou/" },
+    ],
     search: {
       provider: "algolia",
       options: {
-        appId: "HCNQHDBB8V",
-        apiKey: "9f3d3873c241b739f60fce05bca44a42",
-        indexName: "fringe-division",
+        appId: "ITQDGZSRRF",
+        apiKey: "059504c8a6dcec3a150a6027721a3513",
+        indexName: "faith-docs",
       },
     },
   },
