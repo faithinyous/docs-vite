@@ -25,22 +25,22 @@ export default defineConfig({
             text: "Developer",
             collapsed: true,
             items: [
-              { text: "Quasar", link: "docs/technical/quasar" },
+              { text: "Quasar", link: "docs/technical/dev/quasar" },
               {
                 text: "Design & Animation",
-                link: "docs/technical/design_and_animation",
+                link: "docs/technical/dev/design_and_animation",
               },
-              { text: "Graph", link: "docs/technical/graph" },
+              { text: "Graph", link: "docs/technical/dev/graph" },
             ],
           },
           {
             text: "Ops",
             collapsed: true,
             items: [
-              { text: "Docker", link: "docs/technical/docker" },
+              { text: "Docker", link: "docs/technical/ops/docker" },
               {
                 text: "Kube",
-                link: "docs/technical/kube",
+                link: "docs/technical/ops/kube",
               },
             ],
           },
