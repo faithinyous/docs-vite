@@ -1,4 +1,4 @@
-# docs.karnwong.me
+# docs.faithstory.info
 
 ## Usage
 
