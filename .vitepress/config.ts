@@ -66,7 +66,15 @@ export default defineConfig({
             text: "OKR/KPI",
             link: "docs/management/okr_kpi",
           },
+          {
+            text: "Product Management",
+            link: "docs/management/product_management",
+          },
         ],
+      },
+      {
+        text: "Tools",
+        link: "docs/tools",
       },
     ],
 
