@@ -45,6 +45,7 @@ export default defineConfig({
                 link: "docs/technical/dev/design_and_animation",
               },
               { text: "Graph", link: "docs/technical/dev/graph" },
+              { text: "Database", link: "docs/technical/dev/database" },
             ],
           },
           {
