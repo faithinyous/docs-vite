@@ -25,6 +25,12 @@ All doc is here https://quasar.dev/
 
 i18next is improved version of i18n
 
+0. Import package
+
+   ```batch
+   yarn add i18next i18next-vue
+   ```
+
 1. create new file i18next.ts under boot
 
    ```ts
@@ -81,4 +87,12 @@ i18next is improved version of i18n
    <div>
    {{ $t('genera.save') }}
    </div>
+   ```
+
+5. Add boot to quasar.conf.js
+
+   ```json
+   {
+     "boot": ["i18next"]
+   }
    ```
