@@ -4,7 +4,7 @@ All doc is here https://quasar.dev/
 
 ### After install need to change some detail to make it easier to use
 
-#### Quasar.conf.js
+Edit Quasar config in quasar.conf.js
 
 1. edit build -> vueRouterMode to 'history'
 2. add env using || so that it will use the default value if the env is not set. I suggest dont set .env outside as it
