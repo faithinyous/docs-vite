@@ -23,13 +23,13 @@ All doc is here https://quasar.dev/
 
 #### Setting up i18next
 
-i18next is improved version of i18n
+i18next is improved version of i18n (Does not work with SSR)
 
-0. Import package
+Add package to dependency
 
-   ```batch
-   yarn add i18next i18next-vue
-   ```
+```batch
+yarn add i18next i18next-vue
+```
 
 1. create new file i18next.ts under boot
 
