@@ -18,7 +18,7 @@ Copy config file to local machine '~/.kube/config'
 
 Edit name as needed in the config file
 
-```bash
+```yaml
   name: default # < here
 contexts:
 - context:
