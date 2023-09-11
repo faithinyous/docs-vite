@@ -1,11 +1,12 @@
 {
   "name": "faith-vitepress-doc",
+  "type": "module",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
     "prettier": "^2.8.8",
-    "vitepress": "^1.0.0-beta.1"
+    "vitepress": "^1.0.0-rc.10"
   },
   "scripts": {
     "dev": "vitepress dev",
