@@ -1,10 +1,10 @@
 # Agile
 
-Agile is great because it increase communication. But if you use it in the wrong way then say bye to your process
+Agile is great because it increases communication. But if you use it in the wrong way then say bye to your process
 
 ## Scrum - Standup Meeting
 
-Scrum is great because it increase communication. Having it once a day is good enough.
+Scrum is great because it increases communication. Having it once a day is good enough.
 Key take away
 
     1. make it short and finish it fast if there is nothing much

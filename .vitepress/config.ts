@@ -46,6 +46,7 @@ export default defineConfig({
               },
               { text: "Graph", link: "docs/technical/dev/graph" },
               { text: "Database", link: "docs/technical/dev/database" },
+              { text: "TypeOrm", link: "docs/technical/dev/typeorm" },
             ],
           },
           {
